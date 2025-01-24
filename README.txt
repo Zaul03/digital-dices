@@ -1,3 +1,7 @@
+Digital dice project.
 
-Simularea pentru 555 este facuta in LtSPICE. LtSpice-ul nu suporta simulari mari pentru analog combinat cu digital.
-Am facut partea digitala in Logisim.
+You roll by keeping the button pressed.
+
+The project is made using a 555 IC to generate the clock signal and a LFSR for the combinational logic made with ICs from the 74xx series.
+
+The simulation of the clock circuitry is made in LtSpice and the simulation of the dices in logisim.
