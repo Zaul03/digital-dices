@@ -8,7 +8,7 @@ The simulation of the clock circuitry is made in LtSpice and the simulation of t
 
 ## Logisim circuit
 ![digital-circuit](./photos/Digital-sim-Logisim.PNG)
-* I loaded the circuit in logisim evo to screenshot it, I did not have the patience to reroute *
+*I loaded the circuit in logisim evo to screenshot it, I did not have the patience to reroute*
 ## LTSpice 555 circuit
 ![555-clock](./photos/555-CLK-gen.PNG)
 
